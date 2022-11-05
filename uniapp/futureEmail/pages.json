@@ -1,0 +1,53 @@
+{
+	"pages": [
+
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				// "navigationBarTitleText": "未来邮局",
+				"navigationStyle":"custom" // 取消本页面的导航栏
+			}
+		},
+		
+		{
+			"path": "pages/login/login",
+			"style": {
+				// "navigationBarTitleText": "登录"
+				"navigationStyle":"custom" // 取消本页面的导航栏
+			}
+		},
+		
+		{
+			"path": "pages/setemail/setemail",
+			"style": {
+				"navigationBarTitleText": "新建信封",
+				"navigationStyle":"custom" // 取消本页面的导航栏
+			}
+		},
+		
+		
+		
+		{
+			"path": "pages/writeemail/writeemail",
+			"style": {
+				"navigationBarTitleText": "写信",
+				"navigationStyle":"custom" // 取消本页面的导航栏
+				
+			}
+		}
+
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+		// "enablePullDownRefresh": true,
+		// "transparentTitle":"always"
+	}
+
+}

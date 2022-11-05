@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "写信",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "email-block": "/components/EmailBlock/EmailBlock"
+  }
+}

@@ -1,0 +1,152 @@
+
+.container.data-v-b237504c{
+		height: 100%;
+		width: 100%;
+		background-image: linear-gradient(62deg, #8EC5FC, #E0C3FC);
+/* 		background-color: #000000;
+		opacity: 0.5; */
+}
+.container .loginButton.data-v-b237504c{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: fixed;
+		bottom: 134.61rpx;
+		left: 75rpx;
+		width: 601.92rpx;
+		height: 100rpx;
+		border-radius: 50rpx;
+		background-color: #71cdec;
+		color:#000;
+		font-size: 32.69rpx;
+		letter-spacing: 12rpx;
+		box-shadow: 5px 5px 10px #707070;
+}
+.container .loginButtonTruth.data-v-b237504c{
+		position: fixed;
+		bottom: 134.61rpx;
+		left: 75rpx;
+		width: 601.92rpx;
+		height: 100rpx;
+		border-radius: 50rpx;
+		opacity: 0;
+}
+.codeMessage.data-v-b237504c{
+		position: relative;
+		left: 57.69rpx;
+		top: 407.69rpx ;
+		height: 111.53rpx;
+		width: 100%;
+}
+.codeMessage .logo.data-v-b237504c{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: absolute;
+		top: 0rpx;
+		left: 0rpx;
+		width: 106rpx;
+		height: 106rpx;
+		border-radius: 53rpx;
+		background-color: #2979FF;
+		background-image: url('https://afflatus.xyz/image/touxiang.jpg');
+}
+.codeMessage .codeName.data-v-b237504c{
+		position: absolute;
+		top: 9.61rpx;
+		left: 125rpx;
+		font-size: 38.46rpx;
+		letter-spacing: 12rpx;
+}
+.codeMessage .codeNameEn1.data-v-b237504c{
+		position: absolute;
+		top: 15.38rpx;
+		left: 330.69rpx;
+		font-size: 21.15rpx;
+		letter-spacing: 9rpx;
+}
+.codeMessage .codeNameEn2.data-v-b237504c{
+		position: absolute;
+		top: 40.38rpx;
+		left: 330.69rpx;
+		font-size: 21.15rpx;
+		letter-spacing: 9rpx;
+}
+.codeMessage .shortM.data-v-b237504c{
+		position: absolute;
+		top: 69.23rpx;
+		left: 130.76rpx;
+		font-size: 30.76rpx;
+		letter-spacing: 12rpx;
+}
+.codeFuction.data-v-b237504c{
+		position: relative;
+		top: 520.76rpx;
+		left: 0px;
+}
+.codeFuction .function1.data-v-b237504c{
+		position: absolute;
+		top: 0rpx;
+		left: 57.69rpx;
+		width: 634.61rpx;
+		height: 138.46rpx;
+		border-radius: 15.38rpx;
+		border: 1.92rpx solid #707070;
+		background-color: rgba(255,255,255,0.9);
+		margin-bottom: 32.69rpx;
+		box-shadow: 5px 5px 10px #707070;
+}
+.codeFuction .function2.data-v-b237504c{
+		position: absolute;
+		top: 171.15rpx;
+		left: 57.69rpx;
+		width: 634.61rpx;
+		height: 138.46rpx;
+		border-radius: 15.38rpx;
+		border: 1.92rpx solid #707070;
+		background-color: rgba(255,255,255,0.9);
+		margin-bottom: 32.69rpx;
+		box-shadow: 5px 5px 10px #707070;
+}
+.codeFuction .function3.data-v-b237504c{
+		position: absolute;
+		top: 342.3rpx;
+		left: 57.69rpx;
+		width: 634.61rpx;
+		height: 138.46rpx;
+		border-radius: 15.38rpx;
+		border: 1.92rpx solid #707070;
+		background-color: rgba(255,255,255,0.9);
+		margin-bottom: 32.69rpx;
+		box-shadow: 5px 5px 10px #707070;
+}
+	
+	/* <view class="point" style="color: #AB5353;"></view>
+	<view class="miaoshu1">给未来的自己或TA写信</view>
+	<view class="miaoshu1s">采用块的方式写信，支持文字、图片、音频格式</view> */
+.codeFuction .point.data-v-b237504c{
+		position: absolute;
+		top: 38.46rpx;
+		left: 38.46rpx;
+		height: 9.61rpx;
+		width: 9.61rpx;
+		border-radius: 4.805rpx;
+}
+.miaoshu1.data-v-b237504c{
+		position: absolute;
+		top: 19.23rpx;
+		left: 69.23rpx;
+		font-size: 32.69rpx;
+		letter-spacing: 9.61rpx;
+		font-weight: bold;
+}
+.miaoshu2.data-v-b237504c{
+		position: absolute;
+		top: 76.92rpx;
+		left: 40.38rpx;
+		font-size: 19.23rpx;
+		letter-spacing: 3.84rpx;
+}
+	
+	
+

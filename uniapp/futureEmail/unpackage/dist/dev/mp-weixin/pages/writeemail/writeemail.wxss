@@ -1,0 +1,220 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.writeemail {
+  position: relative;
+  top: 0rpx;
+  left: 0rpx;
+  width: 100%;
+  /* height: 100%; */
+  /* background-image: linear-gradient(62deg, #8EC5FC, #E0C3FC); */
+}
+.writeemail .xuanfuAnniu {
+  position: fixed;
+  display: flex;
+  bottom: 70rpx;
+  left: 16rpx;
+  width: 95rpx;
+  height: 290rpx;
+  /* z-index: 1; */
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 95rpx;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: 3px 6px 12px #888888;
+}
+.writeemail .anniuCss {
+  color: #fff;
+  font-size: 72rpx;
+}
+.writeemail .sent {
+  position: fixed;
+  display: flex;
+  bottom: 77rpx;
+  right: 16rpx;
+  width: 95rpx;
+  height: 164rpx;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 95rpx;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  box-shadow: 3px 6px 12px #888888;
+}
+.writeemail .bg {
+  position: fixed;
+  top: 0rpx;
+  left: 0rpx;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(62deg, #8EC5FC, #E0C3FC);
+}
+.writeemail .myNavigationBG {
+  height: 130rpx;
+  width: 100%;
+  opacity: 0.6;
+}
+.writeemail .back-btn {
+  width: 100%;
+  position: fixed;
+  z-index: 8;
+  padding-top: 25px;
+  padding-left: 40rpx;
+  padding-right: 40rpx;
+  padding-bottom: 25rpx;
+  /* top: 40rpx; */
+  height: 99rpx;
+  font-size: 40rpx;
+  color: #1E1E1E;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.1);
+  /* box-shadow: 1px 1px 22px #707070; */
+}
+.writeemail .back-btn .nav-title {
+  position: absolute;
+  top: 103rpx;
+  width: 640rpx;
+  text-align: center;
+}
+.writeemail scroll-view {
+  position: absolute;
+  top: 125rpx;
+  padding-top: 25px;
+}
+.writeemail .myNavigation {
+  position: fixed;
+  left: 0rpx;
+  top: 0rpx;
+  height: 130rpx;
+  width: 100%;
+  z-index: 5;
+  background-color: #FFFFFF;
+  opacity: 0.6;
+}
+.writeemail .newText {
+  position: fixed;
+  left: 17.3rpx;
+  bottom: 17.3rpx;
+  width: 76.92rpx;
+  height: 76.92rpx;
+  border-radius: 76.92rpx;
+  border: #000000 solid 1.92rpx;
+  text-align: center;
+}
+.writeemail .newText view {
+  font-size: 30.15rpx;
+  margin-top: 18.885rpx;
+}
+.writeemail .newPic {
+  position: fixed;
+  left: 17.3rpx;
+  bottom: 107.69rpx;
+  width: 76.92rpx;
+  height: 76.92rpx;
+  border-radius: 76.92rpx;
+  border: #000000 solid 1.92rpx;
+  text-align: center;
+}
+.writeemail .newPic view {
+  font-size: 30.15rpx;
+  margin-top: 18.885rpx;
+}
+.writeemail .newMusic {
+  position: fixed;
+  left: 17.3rpx;
+  bottom: 200rpx;
+  width: 76.92rpx;
+  height: 76.92rpx;
+  border-radius: 76.92rpx;
+  border: #000000 solid 1.92rpx;
+  text-align: center;
+  background-color: #007AFF;
+}
+.writeemail .newMusic view {
+  font-size: 30.15rpx;
+  margin-top: 18.885rpx;
+}
+.writeemail .blackBG {
+  position: fixed;
+  top: 375rpx;
+  left: 375rpx;
+  height: 0rpx;
+  width: 0rpx;
+  background-color: #000000;
+  opacity: 0;
+  z-index: 9;
+}
+/* .writeemail textarea{
+	top: 200rpx !important; 
+} */
+.writeemail .writeWin {
+  position: fixed;
+  display: flex;
+  z-index: 12;
+  opacity: 0;
+  height: 0rpx;
+  width: 0rpx;
+  justify-content: center;
+  align-items: center;
+  /* left: 375rpx; */
+}
+.writeemail .writeWin text {
+  position: absolute;
+  right: 15rpx;
+  bottom: 0rpx;
+  font-size: 100rpx;
+  opacity: 0.7;
+  z-index: 12;
+}
+.writeemail .mytextarea {
+  height: 100%;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 30rpx;
+  margin: 9.61rpx 9.61rpx;
+  font-size: 40rpx;
+  padding-left: 10rpx;
+  padding-top: 10rpx;
+}
+.writeemail .confirmB {
+  position: fixed;
+  z-index: 10;
+  top: 170rpx;
+  right: 0rpx;
+  height: 0rpx;
+  width: 0rpx;
+  opacity: 0;
+  background-color: #fff;
+  text-align: center;
+}
+.writeemail .confirmB view {
+  padding-top: 30rpx;
+}
+.writeemail textarea {
+  /* width: 700rpx !important;
+	height: 30% !important;;
+	left: 9px !important;; */
+}
+.writeemail .whiteBlock {
+  width: 100%;
+  padding-top: 80rpx;
+  /* top: 40rpx; */
+  height: 99rpx;
+}
+/* .writeemail .buttonReturn{
+	position: fixed;
+	top: 79rpx;
+	left: 0rpx;
+	z-index: 8;
+} */
+.writeemail .buttonReturn {
+  position: absolute;
+  top: 85rpx;
+  left: 28rpx;
+  z-index: 10;
+  font-size: 70rpx;
+  opacity: 0.9;
+}
+
